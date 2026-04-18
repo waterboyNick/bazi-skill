@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bazi Reading"
+  short_description: "Plain-language BaZi reading"
+  default_prompt: "Use $bazi-reading to give a clear, modern BaZi reading that opens fast, prioritizes life arc, past-event verification, and the next 2-5 years, and translates each timing call into concrete real-life events."
